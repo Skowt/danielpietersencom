@@ -9,7 +9,7 @@ DirectoryIndex
 RewriteEngine on
 
 # Simple URL redirect:
-RewriteRule ^(.*)$ http://danielpietersen.com:2368/$1 [P]
+RewriteRule ^(.*)$ http://127.0.0.1:2368/$1 [P]
 
 </IfModule>
 
