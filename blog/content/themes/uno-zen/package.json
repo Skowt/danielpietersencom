@@ -27,6 +27,7 @@
     "coffee-script": "*",
     "gulp": "*",
     "gulp-add-src": "*",
+    "es6-promise": "*",
     "gulp-autoprefixer": "*",
     "gulp-changed": "*",
     "gulp-coffee": "*",

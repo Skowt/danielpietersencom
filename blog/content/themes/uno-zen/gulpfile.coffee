@@ -14,6 +14,10 @@ addsrc      = require 'gulp-add-src'
 changed     = require 'gulp-changed'
 pkg         = require './package.json'
 _s          = require 'underscore.string'
+
+# -- Fix PostCSS issues with Nodejs v0.10
+require('es6-promise').polyfill();
+
 prefix      = require 'gulp-autoprefixer'
 strip       = require 'gulp-strip-css-comments'
 browserSync = require 'browser-sync'
