@@ -31,7 +31,7 @@ PORT =
 # -- Files ---------------------------------------------------------------------
 
 dist =
-  name     : _s.slugify(pkg.name)
+  name     : _s.slugify pkg.name
   css      : 'assets/css'
   js       : 'assets/js'
 
@@ -48,7 +48,9 @@ src =
               'assets/vendor/ghostHunter/jquery.ghostHunter.min.js'
               'assets/vendor/pace/pace.min.js'
               'assets/vendor/fitvids/jquery.fitvids.js'
-              'assets/vendor/reading-time/build/readingTime.min.js']
+              'assets/vendor/twemoji/twemoji.min.js'
+              'assets/vendor/reading-time/build/readingTime.min.js'
+              'assets/js/src/prism.js']
   css      :
     main   : 'assets/css/' + dist.name + '.css'
     vendor : []
