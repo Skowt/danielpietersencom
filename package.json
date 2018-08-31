@@ -1,0 +1,22 @@
+{
+  "name": "daniel_pietersen_blog",
+  "version": "1.0.0",
+  "description": "My Blog",
+  "main": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skowt/danielpietersencom.git"
+  },
+  "author": "Daniel Pietersen",
+  "bugs": {
+    "url": "https://github.com/Skowt/danielpietersencom/issues"
+  },
+  "homepage": "https://github.com/Skowt/danielpietersencom#readme",
+  "dependencies": {
+    "ghost": "2.*",
+    "parse-database-url": "^0.3.0"
+  }
+}
