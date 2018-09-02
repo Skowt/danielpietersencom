@@ -1,1 +1,0 @@
-*/2 * * * *		php -d disable_functions="" /home/admin/web/stephaniegrigor.com/public_html/cron.php > /dev/null
