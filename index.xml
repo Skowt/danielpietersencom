@@ -21,13 +21,16 @@
     </item>
     
     <item>
-      <title>The Post</title>
+      <title>Welcome to 127.0.0.1</title>
       <link>http://danielpietersen.com/posts/my-first-post/</link>
-      <pubDate>Sun, 02 Sep 2018 20:43:10 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 2018 12:00:10 +0200</pubDate>
       
       <guid>http://danielpietersen.com/posts/my-first-post/</guid>
-      <description>This is a story. All about how my life got turned right upside down.
-Please show this post on my site.</description>
+      <description>This blog serves as a personal time capsule of various topics which have crossed my path and I was unable to find solutions for online, or the solutions found online weren&amp;rsquo;t clear enough for my liking.
+At the very least, I hope you find information that helps you on your journey across the digital landscape.
+Feel free to get in touch via Twitter or one of my links.
+Cheers,
+Dan</description>
     </item>
     
   </channel>
