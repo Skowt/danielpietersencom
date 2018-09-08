@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Syslog</title>
-    <link>http://www.example.com/</link>
+    <link>http://danielpietersen.com/</link>
     <description>Recent content on The Syslog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 02 Sep 2018 20:43:10 +0200</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://danielpietersen.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Post</title>
-      <link>http://www.example.com/posts/my-first-post/</link>
+      <link>http://danielpietersen.com/posts/my-first-post/</link>
       <pubDate>Sun, 02 Sep 2018 20:43:10 +0200</pubDate>
       
-      <guid>http://www.example.com/posts/my-first-post/</guid>
+      <guid>http://danielpietersen.com/posts/my-first-post/</guid>
       <description>This is a story. All about how my life got turned right upside down.</description>
     </item>
     
