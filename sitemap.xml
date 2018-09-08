@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://danielpietersen.com/about/</loc>
+    <lastmod>2018-09-08T16:54:55+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://danielpietersen.com/posts/my-first-post/</loc>
     <lastmod>2018-09-02T20:43:10+02:00</lastmod>
   </url>
@@ -25,7 +30,7 @@
   
   <url>
     <loc>http://danielpietersen.com/</loc>
-    <lastmod>2018-09-02T20:43:10+02:00</lastmod>
+    <lastmod>2018-09-08T16:54:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
