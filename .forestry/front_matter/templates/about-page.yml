@@ -1,0 +1,19 @@
+---
+label: About Page
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  name: cover_image
+  label: cover_image
+  hidden: false
+- type: textarea
+  name: general_info
+  label: General Info
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+pages:
+- content/about.md
