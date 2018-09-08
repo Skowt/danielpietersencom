@@ -7,3 +7,5 @@ title = "The Post"
 
 +++
 This is a story. All about how my life got turned right upside down.
+
+Please show this post on my site.
